@@ -12,7 +12,7 @@
 
 
 
-![Three-Tier Architecture]()
+![Three-Tier Architecture](https://github.com/singhnirbhai/AWS-Three_Tier_App-Project)
 
 
 ### Overview
